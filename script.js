@@ -21,8 +21,9 @@ function kirimSurvei() {
     nim: nim,
     fasilitas: fasilitas,
     saran: saran
-    
+
   };
+  
 
   console.log(formData);
 

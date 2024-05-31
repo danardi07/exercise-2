@@ -2,6 +2,7 @@ document.getElementById('audio').addEventListener('play', function() {
   document.getElementById('video').pause();
 });
 
+
 document.getElementById('video').addEventListener('play', function() {
   document.getElementById('audio').pause();
 });

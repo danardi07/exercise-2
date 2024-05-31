@@ -8,6 +8,7 @@ document.getElementById('video').addEventListener('play', function() {
 });
 
 
+
 function kirimSurvei() {
   const nama = document.getElementById('nama').value;
   const nim = document.getElementById('nim').value;

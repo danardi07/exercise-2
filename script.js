@@ -7,6 +7,7 @@ document.getElementById('video').addEventListener('play', function() {
   document.getElementById('audio').pause();
 });
 
+
 function kirimSurvei() {
   const nama = document.getElementById('nama').value;
   const nim = document.getElementById('nim').value;

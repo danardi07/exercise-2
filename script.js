@@ -16,6 +16,7 @@ function kirimSurvei() {
   const saran = document.getElementById('saran').value;
 
   const formData = {
+    
     nama: nama,
     nim: nim,
     fasilitas: fasilitas,
